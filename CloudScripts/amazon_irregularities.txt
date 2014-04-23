@@ -1,0 +1,3 @@
+r-896d76e8 - One node failed to launch (32).  One node failed it's status check (48).
+r-2c3ade4c - The instance ID 'i-8b19e6ee' does not exist
+r-40668b20 - The instance ID 'i-11418074' does not exist
